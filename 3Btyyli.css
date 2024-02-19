@@ -1,0 +1,27 @@
+.musta{
+    background-color: black;
+}
+
+.white{
+    color: white;
+}
+.green{
+    color: green;
+}
+.koko1{font-size: 20px;}
+
+.koko2{font-size: 12px;}
+
+.reuna{
+    border: 2px dotted white;
+    width: 100px;
+    height: 100px;
+}
+
+.neliö{
+    list-style-type: square;
+}
+
+.let{
+    list-style-type: lower-alpha;
+}
