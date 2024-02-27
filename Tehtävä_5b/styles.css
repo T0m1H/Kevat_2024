@@ -1,0 +1,56 @@
+header,footer{
+    background-color: rgb(238, 120, 9);
+    color: rgb(15, 7, 245);
+    padding: 1em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    clear:left;
+}
+
+article{
+    background-color: rgb(17, 240, 73);
+    color:black;
+    padding: 1em;
+    width: 70%;
+    height: 430px;
+    text-align: left;
+    font-size: small;
+    font-weight: lighter;
+    clear: right;
+    float: left;
+
+}
+
+aside {
+    float: right;
+    width: 25%;
+    height: 430px;
+    padding: 1em;
+    background-color: blue;
+    color: white;
+}
+
+section {
+    float: left;
+    width: 65%;
+    background-color: aqua;
+    color: rgb(250, 12, 27);
+    height: 230px;
+    padding: 1em;
+}
+
+nav{
+    background-color: rgb(251, 5, 198);
+    color: black;
+    padding: 1em;
+    
+}
+
+
+
+body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    }  
