@@ -1,0 +1,55 @@
+
+.navbar{
+    background-color: transparent;
+    width: 100%;
+}
+
+section{
+    width: 600px;
+    height: 200px;
+    float: right
+}
+
+article{
+    vertical-align: text-bottom;
+}
+h1{
+    font-size: 20px;
+    text-align: left;
+    }
+
+.kehys{
+    width: 350px;
+    height: 50px;
+    margin-top: 15%;
+    margin-left: 35%;
+    align-content: center;
+    box-sizing: border-box; color: grey; size: 400px 400px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+
+.form-text{
+    color:rgb(0, 0, 0);
+}
+
+aside{
+    float: Right;
+    height: 460px;
+    width: 440px;
+    padding: 1em;
+    color: black;
+}
+
+article,section{
+    height: 435px;
+    width: 600px;
+    background-color: cadetblue;
+    color: rgb(8, 8, 8);
+    float: left;
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+    
+}
