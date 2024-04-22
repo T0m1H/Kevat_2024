@@ -1,0 +1,82 @@
+nav{
+    float: left;
+    display: block;
+    overflow: hidden;
+    font-size: 20px;
+    color: black
+    }
+
+
+header{
+    text-align: center;
+    font-style:oblique;
+    font-size: 70px;
+    background-color: black;
+    color: white;
+}
+
+.teksti1{
+    font-size: 20px;
+    font-style: normal;   
+}
+
+ul{
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    width: 80px;
+    background-color: grey;
+    color: white;
+}
+
+ol{
+    display: inline-table;
+    list-style-type: none;
+    padding: 0px;
+    width: 606px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+body{
+    background-color: darkgrey;
+}
+
+.yellow{
+    background-color: yellow
+}
+
+.black{
+    background-color: black;
+    color:white;
+}
+.blue{
+    background-color: blue;
+    color:white;
+}
+
+aside{
+    float: Right;
+    height: 460px;
+    width: 440px;
+    padding: 1em;
+    background-color: black;
+    color: white;
+}
+
+article,section{
+    height: 435px;
+    width: 600px;
+    background-color: black;
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+.yläosa{
+    text-align: center;
+    font-style:oblique;
+    font-size: 70px;
+    background-color: black;
+    color: white;
+}
