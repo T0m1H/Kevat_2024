@@ -1,0 +1,26 @@
+body{
+    background-color: darkgray;
+}
+nav{
+    background-color: darkgray;
+}
+
+aside{
+    float: right;
+    border-style: double;
+    height: 400px;
+    width: 250px;
+    background-color: antiquewhite;
+    font-size: 10px;
+    font-style: oblique;
+}
+h1{font-size: 10px;}
+
+section{
+    float: left;
+    size: 400px, 500px;}
+
+.carousel {
+        width:640px;
+        height:360px;
+      }
