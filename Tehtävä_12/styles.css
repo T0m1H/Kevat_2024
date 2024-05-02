@@ -3,7 +3,7 @@ nav{
 }
 
 aside{
-    float: left;
+    float: right;
     border-style: solid;
     height: 500px;
     width: 400px;
@@ -14,14 +14,14 @@ aside{
 h1{font-size: 10px;}
 
 section{
-    float: auto;
+    float: left;
     height: 500px;
     width: 400px;
 }
 
 .carousel {
-    width:640px;
-    height:360p
+    width: 600px;
+    height: 300px;
 }
 .tausta1 {
     background-size: auto;
