@@ -1,6 +1,9 @@
 nav{
     background-color: darkgray;
 }
+header{
+    font-size: large;
+}
 
 aside{
     float: right;
@@ -20,8 +23,8 @@ section{
 }
 
 .carousel {
-    width: 600px;
-    height: 300px;
+    width: 640px;
+    height: 360px;
 }
 .tausta1 {
     background-size: auto;
