@@ -59,3 +59,12 @@ style{ @media screen { min-width: 320px; max-width: 769;
 .tausta{
     background-color: darkcyan;
 }
+
+.column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
