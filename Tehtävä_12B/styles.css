@@ -42,7 +42,7 @@ footer {
     margin-top: 20px;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
-    border: 2px solid black;
+    border: 2px solid; color: black;
     position: absolute;
     width: 100%;
     
@@ -55,7 +55,7 @@ footer {
     height: 100px;
     font-size: 70px;
     font-weight: bold;
-    border-style: solid 2px black;
+    border: solid 2px; color: black;
     backdrop-filter: blur(10px); 
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
   }
@@ -66,7 +66,7 @@ footer {
     height: 100px;
     font-size: 70px;
     font-weight: bold;
-    border-style: solid 2px 2px white;
+    border: solid 2px; color: white;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
   }
