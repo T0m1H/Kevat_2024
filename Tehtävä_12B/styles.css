@@ -6,9 +6,9 @@ footer {
     height:10%;
     background-color: darkgrey;
     color: white;
-    text-shadow: 2px 2px, black;
     text-align: center;
     font-size: x-large;
+    border-style: double; color: black;
 }
 
 header {
@@ -17,4 +17,6 @@ header {
     width: 100%;
     font-size: 25px;
     font-weight: bold;
+    border-style: double; color: black;
+    background-color: darkgrey;
 }
