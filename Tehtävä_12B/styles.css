@@ -47,6 +47,7 @@ footer {
     border: 2px solid; color: black;
     position: absolute;
     background-image: url(Fuji.jpg);
+    background-repeat: no-repeat;
     
   }
 
