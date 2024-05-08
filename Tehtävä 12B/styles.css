@@ -3,7 +3,7 @@
 }
 
 .column {
-    width: 70%;
+    width: 90%;
     align-items: center;
     margin-top: 20px;
     backdrop-filter: blur(5px);
@@ -42,7 +42,7 @@ footer{
 }
 .tumma{
     
-    width: 70%;
+    width: 90%;
     align-items: center;
     margin-top: 20px;
     backdrop-filter: blur(5px);
