@@ -46,7 +46,7 @@ footer {
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
     border: 2px solid; color: black;
     position: absolute;
-    background-image: url(kirsikka2.jpg);
+    background-image: url(Fuji.jpg);
     
   }
 
@@ -92,5 +92,7 @@ footer {
   .väri{
     background-color: powderblue;
   }
-
+.white{
+    color: white;
+}
 
