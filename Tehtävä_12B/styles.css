@@ -72,6 +72,8 @@ footer {
     border: solid 2px; color: white;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
+    background-image: url(ketju.jpg);
+    background-repeat: no-repeat;
   }
 .laatikko4{
     text-align: center;
@@ -84,6 +86,23 @@ footer {
     border: solid 2px; color: white;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
+    background-image: url(ketju.jpg);
+    background-repeat: no-repeat;
+  }
+  .laatikko5{
+    text-align:center;
+    font-size: 15px;
+    font-weight: bold;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
+    border: 2px solid; color: black;
+    position: absolute;
+    background-image: url(alpit.jpg);
+    background-repeat: no-repeat;
   }
 
   body{
@@ -95,5 +114,8 @@ footer {
   }
 .white{
     color: white;
+}
+.black{
+    background-color: black;
 }
 
