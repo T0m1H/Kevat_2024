@@ -35,16 +35,16 @@ footer {
 }
 
 .laatikko{
-    align-items: center;
-    text-align: justify;
-    font-size: medium;
-    font-weight: bolder;
-    margin-top: 20px;
+    text-align:center;
+    font-size: 20px;
+    font-weight: bold;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
     border: 2px solid; color: black;
     position: absolute;
-    width: 100%;
     
   }
 
@@ -65,6 +65,18 @@ footer {
     width: 100%;
     height: 100px;
     font-size: 70px;
+    font-weight: bold;
+    border: solid 2px; color: white;
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
+  }
+.laatikko4{
+    text-align: center;
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
     font-weight: bold;
     border: solid 2px; color: white;
     backdrop-filter: blur(10px);
