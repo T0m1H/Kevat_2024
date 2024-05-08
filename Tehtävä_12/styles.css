@@ -53,3 +53,14 @@ style{ @media screen { min-width: 320px; max-width: 769;
 .tausta{
     background-color: darkcyan;
 }
+
+.karuselli{
+    float: left;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 500px;
+    width: 600px;
+    margin-top: 20px;
+    padding: 30px;
+}
