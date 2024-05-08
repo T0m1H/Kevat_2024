@@ -3,9 +3,12 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: white;
-    color:black;
+    height:10%;
+    background-color: darkgrey;
+    color: white;
+    text-shadow: 2px 2px, black;
     text-align: center;
+    font-size: x-large;
 }
 
 header {
