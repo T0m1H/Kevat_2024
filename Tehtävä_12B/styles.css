@@ -42,7 +42,7 @@ footer {
     margin-top: 20px;
     backdrop-filter: blur(10px);
     background-color: rgba(255, 255, 255, 0.1); /* Transparent or see-through background */
-    border: 2px solid black;
+    border: 2px solid lightblue;
     position: absolute;
     width: 100%;
     
