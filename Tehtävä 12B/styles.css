@@ -81,3 +81,20 @@ footer{
     font-weight: bold;
 }
 
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to a new line */
+}
+
+.flex-item-left,
+.flex-item-right {
+    flex: 50%; /* Equal width for both columns */
+}
+
+@media(max-width: 800px) {
+    .flex-item-left,
+    .flex-item-right {
+        flex: 100%; /* One column layout for smaller screens */
+    }
+}
+
