@@ -3,32 +3,26 @@ header{
     font-size: large;
 }
 
-aside{
-    float: right;
-    border-style: solid;
-    height: 500px;
-    width: 700px;
-    background-color: lightblue;
-    font-size: 15px;
-    font-style: oblique;
-}
+
+
 h1{font-size: 10px;}
 
-section{
+.vasen{
     float: left;
     display: flex;
+    justify-content: left;
     align-items: center;
-    height: 500px;
-    width: 600px;
+    height: 700px;
+    width: 500px;
     margin-top: 20px;
+    padding: 30px;
 }
 
 nav{
     background-color: dimgrey;
 }
 
-aside{
-    
+.row{ 
         display: flex;
         justify-content: right;
         align-items: center;
@@ -45,7 +39,7 @@ aside{
         color: black;
         font-size: 15px;
         font-weight: bold;
-        float: right;
+        float: left;
       }
 
 style{ @media screen { min-width: 320px; max-width: 769;
