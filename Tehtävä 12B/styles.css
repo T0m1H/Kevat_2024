@@ -17,31 +17,6 @@
     font-size: 15px;
     font-weight: bold;
 }
-.kuva{
-    float: right;
-    margin-top: 20px;
-    margin-right: 70px;
-    align-items: center;
-    height: 560px;
-    width: 400px;
-}
-.kuva2{
-    float: right;
-    margin-top: 20px;
-    margin-right: 70px;
-    align-items: center;
-    height: 573px;
-    width: 500px;   
-}
-
-.kuva3{
-    float: right;
-    margin-top: 20px;
-    margin-right: 70px;
-    align-items: center;
-    height: 615px;
-    width: 500px; 
-}
 
 .kuva4{
     float: right;
