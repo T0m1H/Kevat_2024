@@ -9,7 +9,7 @@ footer {
     text-align: center;
     font-size: 15px;
     border-style: solid; color: black;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 
@@ -40,6 +40,7 @@ footer {
     font-size: 15px;
     font-weight: bold;
     width: 90%;
+    height: 90%;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 10%;
@@ -57,9 +58,9 @@ footer {
     height: 100px;
     font-size: 70px;
     font-weight: bold;
-    border: solid 2px; color: rgb(163, 126, 44);
+    border: solid 2px; color: rgb(0, 96, 57);
     backdrop-filter: blur(10px); 
-    background-color: rgb(0, 96, 57); /* Transparent or see-through background */
+    background-color: rgb(163, 126, 44);
   }
   .laatikko3{
     text-align: center;
@@ -96,8 +97,8 @@ footer {
     margin-right: 5%;
     margin-bottom: 10%;
     backdrop-filter: blur(10px);
-    background-color: rgb(0, 96, 57);
-    border: solid 2px rgb(163, 126, 44);
+    background-color: rgb(163, 126, 44);
+    border: solid 2px rgb(0, 96, 57);
     position: absolute;
   }
 
@@ -141,9 +142,9 @@ body {
   text-align: center;
   font-size: 15px;
   border: solid 2px rgb(163, 126, 44);
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .rolexvihreä{
-  background-color: rgb(0, 96, 57);
+  background-color: rgb(163, 126, 44);
 }
